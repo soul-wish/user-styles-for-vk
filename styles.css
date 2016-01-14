@@ -57,8 +57,9 @@
 	.friends_bigph_wrap .friends_bigph,
 	.post[data-ad],
 	.ads_ads_news_wrap,
-	#feed_recommends {
-		display: none;
+	#feed_recommends,
+	#left_ads {
+		display: none !important;
 	}
 	.chat_tab_close {
 		z-index: 10;
