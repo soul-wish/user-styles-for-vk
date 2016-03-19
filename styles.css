@@ -59,6 +59,7 @@
 	.ads_ads_news_wrap,
 	#feed_recommends,
 	#left_ads,
+	#ads_left,
 	.ads_ads_box {
 		display: none !important;
 	}

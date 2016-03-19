@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 1.0.3 - 2016-03-19
+### Fixed
+- Hide ads block (vk changes its html markup)
+
 ## 1.0.2 - 2016-01-30
 ### Fixed
 - Hide ads block (vk changes its html markup)
